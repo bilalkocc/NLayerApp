@@ -7,4 +7,8 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NLayer.Service\NLayer.Service.csproj" />
+  </ItemGroup>
+
 </Project>
